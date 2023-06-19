@@ -19,7 +19,6 @@ FROM = creds["from_mail"]
 PASS = creds["from_pass"]
 
 TO = creds["to_mail"]
-print(FROM, PASS, TO)
 
 SECS_TO_SLEEP = 600  # 10 minutes
 
