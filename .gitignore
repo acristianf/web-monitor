@@ -1,3 +1,6 @@
+web_monitor/credentials.json
+web_monitor/sha224.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
